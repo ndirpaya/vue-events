@@ -1,0 +1,34 @@
+{
+    "events": [
+      {
+        "id": 123,
+        "category": "animal welfare",
+        "title": "Dog Adoption Day",
+        "description": "Find your new k9 friend at this event.",
+        "location": "Woof Town",
+        "date": "January 28, 2022",
+        "time": "12:00",
+        "organizer": "John Wick & Dog"
+      },
+      {
+        "id": 420,
+        "category": "food",
+        "title": "Community Gardening",
+        "description": "Join us as we tend to the community edible plants.",
+        "location": "Flora City",
+        "date": "March 14, 2022",
+        "time": "10:00",
+        "organizer": "Ronny Smokes"
+      },
+      {
+        "id": 789,
+        "category": "sustainability",
+        "title": "Park Cleanup",
+        "description": "Help pick up trash around the park.",
+        "location": "Millenium Park",
+        "date": "July 22, 2022",
+        "time": "11:00",
+        "organizer": "Mariam Green"
+      }
+    ]
+  }
