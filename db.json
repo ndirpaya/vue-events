@@ -29,6 +29,16 @@
         "date": "July 22, 2022",
         "time": "11:00",
         "organizer": "Mariam Green"
+      },
+      {
+        "id": 200,
+        "category": "entertainment",
+        "title": "Listening Party",
+        "description": "New artiste's album listening party.",
+        "location": "Central Stadium",
+        "date": "August 12, 2022",
+        "time": "19:00",
+        "organizer": "Lil Rapper"
       }
     ]
   }
